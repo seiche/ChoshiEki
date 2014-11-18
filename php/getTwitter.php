@@ -20,10 +20,10 @@
 	require 'tmhOAuth.php';
 
 	$tmhOAuth = new tmhOAuth(array(
-	'consumer_key' => 'eXfF8CZJae69WTxDe5Ehw',
-	'consumer_secret' => '6Gs9A62h2D3QWZrmLztwgRrZJHUh4xvqX7r4yVOVhKE',
-	'user_token' => '418469600-rl4ETI0BtOqAS0SsoBHkYXLA3XO4XebzpTfDGKj4',
-	'user_secret' => 'YXf9MvpIuEiQ9BF9jv9mdoDB3kh9XF5A4QN4F5Iqn6P63',
+	'consumer_key' => 'eXfF8***************',
+	'consumer_secret' => '6Gs9A***************',
+	'user_token' => '4184**********',
+	'user_secret' => 'YXf9***********',
 	'curl_ssl_verifypeer' => false
 	));
 
