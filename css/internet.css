@@ -1,0 +1,86 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family:Meiryo;
+}
+
+html{
+	background-color: #F8F9F1;
+}
+
+h1{
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding: 10px 0;
+	font-weight: normal;
+	font-size: 30px;
+}
+
+.center{
+	display: block;
+	margin: auto;
+	text-align: center;
+	border-radius: 5px;
+}
+
+p{
+	padding: 10px;
+	width: 812px;
+	margin: auto;
+}
+
+.select{
+	width: 812px;
+	display: block;
+	margin: auto;
+	height: 204px;
+}
+
+.item{
+	width: 200px;
+	height: 200px;
+	float: left;
+	border: 2px solid #8E8E89;
+	border-radius: 5px;
+	background: #f2f5f6;
+	background: -moz-radial-gradient(center, ellipse cover,  #f2f5f6 0%, #e3eaed 37%, #c8d7dc 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#f2f5f6), color-stop(37%,#e3eaed), color-stop(100%,#c8d7dc));
+	background: -webkit-radial-gradient(center, ellipse cover,  #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%);
+	background: -o-radial-gradient(center, ellipse cover,  #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%);
+	background: -ms-radial-gradient(center, ellipse cover,  #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%);
+	background: radial-gradient(ellipse at center,  #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f5f6', endColorstr='#c8d7dc',GradientType=1 );
+}
+
+.item:hover{
+	background: #f2f5f6;
+	background: -moz-radial-gradient(center, ellipse cover,  #f2f5f6 0%, #e3eaed 74%, #c8d7dc 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#f2f5f6), color-stop(74%,#e3eaed), color-stop(100%,#c8d7dc));
+	background: -webkit-radial-gradient(center, ellipse cover,  #f2f5f6 0%,#e3eaed 74%,#c8d7dc 100%);
+	background: -o-radial-gradient(center, ellipse cover,  #f2f5f6 0%,#e3eaed 74%,#c8d7dc 100%);
+	background: -ms-radial-gradient(center, ellipse cover,  #f2f5f6 0%,#e3eaed 74%,#c8d7dc 100%);
+	background: radial-gradient(ellipse at center,  #f2f5f6 0%,#e3eaed 74%,#c8d7dc 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f5f6', endColorstr='#c8d7dc',GradientType=1 );
+}
+
+.item img{
+	display: block;
+	margin: auto;
+	padding: 0 36px;
+	padding-top: 36px;
+}
+
+.item h3{
+	font-weight: normal;
+	margin: auto;
+	display: block;
+	font-size: 20px;
+	text-align: center;
+}
+
+.space{
+	width: 100px;
+	height: 204px;
+	float: left;
+}

@@ -1,0 +1,30 @@
+html{
+	background-color: #B2D0FE;
+	height: 100%;
+}
+
+*{
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+body{
+	width: 100%;
+	margin: auto;
+	background-color: #F2F2F2;
+	min-height: 100%;
+	overflow-y: auto;
+	padding: 12px 0;
+}
+
+h1,p{
+	padding-left: 5%;
+	margin-bottom: 40px;
+	width: 90%;
+}
+
+img{
+	display: block;
+	text-align: center;
+	margin: 20px auto;
+	width: 90%;
+}
