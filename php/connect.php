@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-	$con = mysql_connect('localhost', 'root', 'muro2kiri');
+	$con = mysql_connect('localhost', 'root', '*********');
 	if(!$con) die('unable to connect to mysql');
 	$db = mysql_select_db('ekiden2014');
 	if(!$db) die('unable to connect to database');
